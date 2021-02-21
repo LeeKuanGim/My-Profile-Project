@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(197, 241, 255);
+}
+.jumbotron {
+  background-color: aliceblue;
+}
+.nav-link,
+.navbar-brand {
+  color: white !important;
+}
+.rounded-circle {
+  width: 200px;
+  height: 200px;
+}
+.card {
+  padding: 0;
+  border-color: rgb(92, 157, 255);
+}
+.card-header {
+  background-color: rgb(92, 157, 255);
+}
+#skills {
+  font-family: "Lobster", cursive;
+  background-color: aliceblue;
+}
+#education {
+  background-color: rgb(197, 241, 255);
+}
+#awards {
+  background-color: aliceblue;
+}
+.card-text {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
